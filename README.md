@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello 👋
 
+My name is Serine, I'm a software engineer.
+
+I specialize in building backend & AI systems and making sure they're deployed safely and successfully. I'm in the SWE/MLOps/LLMOps sphere.
+
+I like architecting systems as well.
+
+On the side I like to do lots of sports, touch grass as well.
 <!--
 **serine000/serine000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
